@@ -61,9 +61,10 @@ Apache Tomcat (порт 8180): Apache Tomcat/Coyote JSP engine 1.1.
 
 Обнаруженные уязвимости:   
 
-vsftpd 2.3.4 (FTP): vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)   
-OpenSSH 4.7p1 (SSH): OpenSSH 2.3 < 7.7 - Username Enumeration (PoC)   
-Postfix smtpd (SMTP): Postfix SMTP 4.2.x < 4.2.48 - 'Shellshock' Remote Command Injection   
+ - vsftpd 2.3.4 (FTP): vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)   
+ - OpenSSH 4.7p1 (SSH): OpenSSH 2.3 < 7.7 - Username Enumeration (PoC)   
+ - Postfix smtpd (SMTP): Postfix SMTP 4.2.x < 4.2.48 - 'Shellshock' Remote Command Injection   
+
 ---
 
 ### Задание 2
